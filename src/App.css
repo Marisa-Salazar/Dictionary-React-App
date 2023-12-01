@@ -1,4 +1,10 @@
+body {
+  background: #559999;
+  font-family: Helvetica, sans-serif;
+}
+
 .App {
   max-width: 800px;
   margin: auto;
+  background: #88cccc;
 }
