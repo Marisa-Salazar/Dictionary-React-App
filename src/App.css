@@ -1,10 +1,13 @@
 body {
-  background: #559999;
+  background: #dbecf4;
   font-family: Helvetica, sans-serif;
 }
 
 .App {
   max-width: 800px;
   margin: auto;
-  background: #88cccc;
+}
+
+footer {
+  text-align: center;
 }
